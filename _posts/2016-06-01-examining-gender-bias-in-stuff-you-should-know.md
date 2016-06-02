@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Examining Gender Bias in “Stuff You Missed in History Class”
 
