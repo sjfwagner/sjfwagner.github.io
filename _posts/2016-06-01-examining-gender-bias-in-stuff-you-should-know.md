@@ -1,4 +1,8 @@
 ---
+layout: post
+title:  "Examining Gender Bias in 'Stuff You Missed in History Class"
+date:   2016-06-01 20:18:39 -0400
+categories: genderbias
 published: true
 ---
 #### One listener knows not what he says.
