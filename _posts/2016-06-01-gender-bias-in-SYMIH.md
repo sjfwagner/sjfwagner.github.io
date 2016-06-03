@@ -61,7 +61,7 @@ I used the archive provided at their website, and the descriptions at the episod
 
 **In whole, men get more episodes than women by far on SYMIH**
 
-<a href="http://imgur.com/BldcgQU"><img src="http://i.imgur.com/BldcgQU.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/KlcB0R2"><img src="http://i.imgur.com/KlcB0R2.jpg" title="source: imgur.com" /></a>
 
 If we examine the 816 episodes that I covered in my analysis through the lens of the ‘gender loose’ examination (see above). We can see that MOST of the episodes done by Stuff you Missed are either explicitly about men or about subjects that mostly involve male achievement. Women or their achievements make up just a fifth of all episode subjects (more three fifths are about men a difference of roughly 40%). As seen below, when women do have episodes it tends to be biography rather than about their achievements, this is shown as most female episodes remain female in the tight categorization). 
 
