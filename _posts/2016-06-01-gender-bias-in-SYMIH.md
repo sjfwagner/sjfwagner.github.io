@@ -7,9 +7,15 @@ published: true
 ---
 #### One listener knows not what he says.
 
-A few notes: Throughout this post I will assume that women and men are equal in capabilities and unequal in opportunities. Opportunity is highly dependent on many things in society, including religion, skin color, socioeconomic status, and (as examined here) gender; whereas capability is not.
+## A few notes: 
+
+Throughout this post I will assume that women and men are equal in capabilities and unequal in opportunities. Opportunity is highly dependent on many things in society, including religion, skin color, socioeconomic status, and (as examined here) gender; whereas capability is not.
 
 Additionally, this post will describe gender overall as a binary male and female -- despite the fact that this demonstrably false and that gender exists on a spectrum. This post will therefore exclude transgender and non-binary persons. This is for a few reasons, first) the data I have that way compiled by outside sources does not include such considerations and most analysis requires the data to comparable (a line I am already stretching) second) for most of history non-binary and transgender individuals were not recognized (with a few notable exceptions) by their societies. It is best to assume that by male and female in this post, I refer to sex. In every other way I will strive to be as inclusive as possible, but please feel free to comment if I have missed anybody, my intention is to learn as much as possible.
+
+Finally, the same day that this blog post was finally done, the ladies at SYMIH also posted a blog post on the same topic -on the same day!!! You can find their analysis [here](http://www.missedinhistory.com/blog/our-final-answer-on-too-many-women/). 
+
+## Now, The Post
 
 “Stuff You Missed in History Class” is a delightfully educational podcast by Tracy B. Wilson and Holly Fry of “How Stuff Works.” It’s purpose is to provide an overview of historical people and events that you may have missed in in your history class either because they weren’t taught, or they were underexamined. They are deservingly popular and readers often write in to suggest topics or provide comments on recent episodes and interesting pieces of this listener mail are read aloud to the general audience during the “Listener Mail” section of the podcast. I was shocked to listen, some months ago in [their episode on Liszt](http://www.missedinhistory.com/podcasts/lisztomania/ "SYMIH"), to a listener Ross who wrote to the women thus: 
 
@@ -107,4 +113,4 @@ _Interested in more? Part II is coming soon! I'll expand on the "who history is 
 
 \*\**  I chose to begin my examination of the ratio of men to women because during this period we see the number of biographies per birth year for each gender begin to consistently be above 0.  
 
-\*\*\** I really would like to examine this in context of what is ACTUALLY taught in real history books. However I was not able to find good data on topics/people taught in US history classes. I have a lot of ideas about how actually to scrape and grab this data, but none of them are fast. So for now I’ll focus on the data I have available. If you have suggestions please share. 
+\*\*\** I really would like to examine this in context of what is ACTUALLY taught in real history books. However I was not able to find good data on topics/people taught in US history classes. I have a lot of ideas about how actually to scrape and grab this data, but none of them are fast. So for now I’ll focus on the data I have available. If you have suggestions please share.
