@@ -57,7 +57,7 @@ Using these categories, I have classified the nearly 900 podcasts since 2008. I 
 
 ### _Men & Women in SYMIH’s episode archive_
 
-I used the archive provided at their website, and the descriptions at the episode’s profile (using some light webscraping, the script for which can be found here), to collect the title, date published, and the synopsis of the episode. After collecting this into a single google sheet, I used the synopsis or listened to the episode where necessary, to determine the Gender (as described in the previous section) for each the nearly 1,000 episodes (DAMN LADIES). 
+I used the archive provided at their website, and the descriptions at the episode’s profile (using some light webscraping), to collect the title, date published, and the synopsis of the episode. After collecting this into a single google sheet, I used the synopsis or listened to the episode where necessary, to determine the Gender (as described in the previous section) for each the nearly 1,000 episodes (DAMN LADIES). 
 
 **In whole, men get more episodes than women by far on SYMIH**
 
