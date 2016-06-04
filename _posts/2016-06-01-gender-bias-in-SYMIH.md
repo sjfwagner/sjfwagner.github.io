@@ -11,7 +11,7 @@ published: true
 
 Throughout this post I will assume that women and men are equal in capabilities and unequal in opportunities. Opportunity is highly dependent on many things in society, including religion, skin color, socioeconomic status, and (as examined here) gender; whereas capability is not.
 
-Additionally, this post will describe gender overall as a binary male and female -- despite the fact that this demonstrably false and that gender exists on a spectrum. This post will therefore exclude transgender and non-binary persons. This is for a few reasons, first) the data I have that way compiled by outside sources does not include such considerations and most analysis requires the data to comparable (a line I am already stretching) second) for most of history non-binary and transgender individuals were not recognized (with a few notable exceptions) by their societies. It is best to assume that by male and female in this post, I refer to sex. In every other way I will strive to be as inclusive as possible, but please feel free to comment if I have missed anybody, my intention is to learn as much as possible.
+Additionally, this post will describe gender overall as a binary male and female -- despite the fact that this demonstrably false and that gender exists on a spectrum. This post will therefore exclude transgender and non-binary persons. This is for a few reasons, first) the data I have from Pantheon 1.0 that was compiled by outside sources does not include such considerations and most analysis requires the data to comparable (a line I am already stretching) second) for most of history non-binary and transgender individuals were not recognized (with a few notable exceptions) by their societies. It is best to assume that by male and female in this post, I refer to sex. In every other way I will strive to be as inclusive as possible, but please feel free to comment if I have missed anybody, my intention is to learn as much as possible.
 
 Finally, the same day that this blog post was finally done, the ladies at SYMIH also posted a blog post on the same topic -on the same day!!! You can find their analysis [here](http://www.missedinhistory.com/blog/our-final-answer-on-too-many-women/). 
 
@@ -71,7 +71,7 @@ From loose to tight the percentage of episodes about men go down roughly 15%, wh
 
 **Over time, men _still_ get more episodes than women by far on SYMIH**
 
-In fact, on average over time Tracy and Holly have roughly 5.5 male podcasts and 1.8 female podcasts per month (loosely), though the precise numbers move up and down depending on the month.
+In fact, on average over time SYMIH hosts have had roughly 5.5 male podcasts and 1.8 female podcasts per month (loosely), though the precise numbers move up and down depending on the month.
 
 <a href="http://imgur.com/ymNK42i"><img src="http://i.imgur.com/ymNK42i.jpg" title="source: imgur.com" /></a>
 
