@@ -1,3 +1,10 @@
+---
+layout: post
+title: Webscraping for Data Collection I
+date: '2017-05-17 20:18:39 -0400'
+categories: tutorial
+published: true
+---
 
 # Webscraping for Data Collection
 
