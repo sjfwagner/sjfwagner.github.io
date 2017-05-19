@@ -6,7 +6,7 @@ categories: tutorial
 published: true
 ---
 
-# Webscraping for Data Collection
+### Webscraping for Data Collection
 
 I ~love~ using webscraping to grab data from content on websites. In my day job this is something I end up using a lot, getting data from different websites, putting it back together, and it's also something I get a lot of questions about. Webscraping is particularily useful when 1) the service is not intended to provide data or 2) there is no good public api. This simple tutorial will build into my "Women's Representation in History" as I show how to webscrape data from webpages at different levels of diffculty. 
 
