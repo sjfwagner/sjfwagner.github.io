@@ -66,8 +66,8 @@ There are other useful functions that you can use to more intelligently use xpat
 ```python
 historians = [] # create a json format of our data
 for i in wiki_page.xpath('//div[@id="mw-content-text"]//li/a[@title][position()=1]'): #this xpath grabs all the list items, with a title
-    print (i.text) #print the historian's name #unnecessary
-    print (i.xpath('@href')) #print the link #unneccessary
+    print(i.text) #print the historian's name #unnecessary
+    print(i.xpath('@href')) #print the link #unneccessary
     
     historians.append({"name":i.text, "url": "https://en.wikipedia.org"+i.xpath('@href')[0] })#store the full link
 ```
