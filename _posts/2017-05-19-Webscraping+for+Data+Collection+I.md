@@ -66,8 +66,8 @@ There are other useful functions that you can use to more intelligently use xpat
 ```python
 historians = [] # create a json format of our data
 for i in wiki_page.xpath('//div[@id="mw-content-text"]//li/a[@title][position()=1]'): #this xpath grabs all the list items, with a title
-    print i.text #print the historian's name #unnecessary
-    print i.xpath('@href') #print the link #unneccessary
+    print (i.text) #print the historian's name #unnecessary
+    print (i.xpath('@href')) #print the link #unneccessary
     
     historians.append({"name":i.text, "url": "https://en.wikipedia.org"+i.xpath('@href')[0] })#store the full link
 ```
@@ -140,17 +140,17 @@ import re
 
 ```python
 req_historian = requests.get(historians[7]['url'])
-#print req_historian.text
-print historians[6]['url'] # easy clicking to check
+
+print (historians[6]['url'] )# easy clicking to check
 historian_page = html.fromstring(req_historian.text)
 text = historian_page.xpath('//div[@id="mw-content-text"]/p//text()')
 text = "".join(text)
 text.replace("\u",'') #clean up
 text.replace("\n",'') 
-print
-print text
-print "'he'  counts:", text.count(' he '), text.count(' He ')
-print "'she' counts:",text.count(' she '), text.count(' She ')
+print()
+print(text)
+print("'he'  counts:", text.count(' he '), text.count(' He '))
+print("'she' counts:",text.count(' she '), text.count(' She '))
 
 
 #test this before putting it online
@@ -158,7 +158,7 @@ year = re.compile("\d{3,4}")#this regex grabs years
     
 hist_year = year.findall(text)[0]
 hist_year = hist_year
-print hist_year
+print(hist_year)
 ```
 
     https://en.wikipedia.org/wiki/Berossus
@@ -194,7 +194,7 @@ for i in historians:
     text = "".join(text)
     text.replace("\u",'')
     text.replace("\n",'')
-    #print
+    
    
     he = text.count(' he ') + text.count(' He ')
     she= text.count(' she ') + text.count(' She ')
