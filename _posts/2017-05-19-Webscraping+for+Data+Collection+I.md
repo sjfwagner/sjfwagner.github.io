@@ -141,7 +141,7 @@ import re
 ```python
 req_historian = requests.get(historians[7]['url'])
 
-print (historians[6]['url'] )# easy clicking to check
+print(historians[6]['url'] )# easy clicking to check
 historian_page = html.fromstring(req_historian.text)
 text = historian_page.xpath('//div[@id="mw-content-text"]/p//text()')
 text = "".join(text)
